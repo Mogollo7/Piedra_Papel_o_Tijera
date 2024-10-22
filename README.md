@@ -43,7 +43,7 @@ Se inicia el programa llamado `Piedra_Papel_o_Tijera.py`. Al ejecutar el código
 ## **Estructura del Código**
 
 <figure style="text-align: center;">
-  <img src="imagenes/estructura.png" alt="" width="387" height="170" />
+  <img src="imagenes/estructura.png" alt="" width="300" height="240" />
   <figcaption><strong></strong></figcaption>
 </figure>
 
